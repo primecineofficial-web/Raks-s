@@ -1,0 +1,6 @@
+{
+  "name": "BrokeIt",
+  "description": "Blinkit-inspired quick-commerce grocery simulator that stops impulse buying by blocking payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
